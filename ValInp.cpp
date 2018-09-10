@@ -1,4 +1,4 @@
-
+//Validacion de entradas
 #include "stdafx.h"
 #include "ValInp.h"
 #include <iostream>//e/s 
